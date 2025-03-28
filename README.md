@@ -3,7 +3,7 @@
 - Karen Correa
 
 # Historia
-**Memory Tiles**
+**Memory Tails**
 
 
 *En un mundo donde los recuerdos
